@@ -4,4 +4,5 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://chi2025.acm.org/"><autocolor>ACM/CHI conference on Human Factors in Computing Systems(CHI) 2025</autocolor></a></li>
+  <li><a href="https://chi2026.acm.org/"><autocolor>ACM/CHI conference on Human Factors in Computing Systems(CHI) 2026</autocolor></a></li>
 </ul>
