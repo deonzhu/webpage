@@ -25,7 +25,10 @@ I am a Ph.D. student at Institut Systèmes Intelligents et de Robotique(ISIR), U
 - 08/2019 - Vistor - University of Cambridge - Artificial Intelligence and Engineering Science Program - Cambridge, UK
 
 ## Projects
-- 10/2023-Present: _Computational models to predict user trajectories in dynamic environments_(ANR-Neuro HCI program)
+- 10/2023-Present: _Computational models to predict user trajectories in dynamic environments_(ANR-Neuro HCI program):
+    1. Optimizing the experimental design to estimate the detection threshold efficiently;
+    2. Recognizing the structured error signals driving the illusion detection in hand redirection;
+    3. Using the Stochatisc optimal feedback control model to predict users' detection threshold in hand redirection.
 - 09/2020-06/2023  _Biomechanics of Speed Skating_ (China National Key R&D Program)
 - 12/2019-06/2020 _The general design of the multi-rotor tethered fire-fighting drone_
 
@@ -40,4 +43,8 @@ I am a Ph.D. student at Institut Systèmes Intelligents et de Robotique(ISIR), U
 ## Competitions
 -  **First Prize** in the Beijing Semi-final of the 9th China International “Internet+” College Students’ Innovation and Entrepreneurship Competition
 -  **Gold Award** in China International College Student Innovation Competition (2023)
+
+## Skills
+- Programming: MATLAB(Fluent)/ Python(Fluent)/ Unity/ ROS/ CAD/ C++
+- Languages: Chinese Mandarin/ English(C1)/ French(B1)
 
