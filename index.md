@@ -25,7 +25,7 @@ I am a Ph.D. student at Institut Systèmes Intelligents et de Robotique(ISIR), U
 - 08/2019 - Vistor - University of Cambridge - Artificial Intelligence and Engineering Science Program - Cambridge, UK
 
 ## Projects
-- 10/2023-Present: _Computational models to predict user trajectories in dynamic environments_(Neuro HCI program)
+- 10/2023-Present: _Computational models to predict user trajectories in dynamic environments_(ANR-Neuro HCI program)
 - 09/2020-06/2023  _Biomechanics of Speed Skating_ (China National Key R&D Program)
 - 12/2019-06/2020 _The general design of the multi-rotor tethered fire-fighting drone_
 
