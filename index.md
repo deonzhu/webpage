@@ -48,3 +48,9 @@ I am a Ph.D. student at Institut Systèmes Intelligents et de Robotique(ISIR), U
 - Programming: MATLAB(Fluent)/ Python(Fluent)/ Unity/ ROS/ CAD/ C++
 - Languages: Chinese Mandarin/ English(C1)/ French(B1)
 
+## Food competition records
+- 50 N2 Oyesters
+- 6 bowls of rice noodles
+- 1.2kg rice
+- To be continued......
+
