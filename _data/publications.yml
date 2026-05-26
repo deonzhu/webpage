@@ -8,3 +8,12 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Pub1.jpg
+
+  - title: "Optimizing the Experimental Design to Estimate Detection Thresholds of Hand Redirection in Virtual Reality"
+    authors: Qihang Zhu*, Gilles Bailly, Julien Gori (*Corresponding authors)
+    conference_short: IJHCS
+    conference: International Journal of Human-Computer Studies (Under Review)
+    pdf: xxxx
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: xx
