@@ -21,8 +21,8 @@ main:
   - title: "What Drives Detection in Hand Redirection?"
     authors: Qihang Zhu*, Gilles Bailly, Emmanuel Guigon, Julien Gori (*Corresponding authors)
     conference_short: ACM SAP 2026
-    conference: ACM Symposium on Applied Perception (Under Review)
-    # pdf: xxxx
+    conference: ACM Symposium on Applied Perception (Revision)
+    pdf: https://10.1145/3821409.3821457
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Pub4.png
@@ -30,8 +30,8 @@ main:
   - title: "Effect of visuo-motor adaptation on the detection threshold of hand-redirection in virtual reality"
     authors: Qihang Zhu*, Gilles Bailly, Emmanuel Guigon, Julien Gori (*Corresponding authors)
     conference_short: ACM SAP 2026
-    conference: ACM Symposium on Applied Perception (Under Review)
-    # pdf: xxxx
+    conference: ACM Symposium on Applied Perception (Revision)
+    pdf: https://10.1145/3821409.3821456
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Pub3.png
