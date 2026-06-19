@@ -51,7 +51,7 @@ I am a Ph.D. student at Institut Systèmes Intelligents et de Robotique(ISIR), U
 ## Food competition records
 - 50 N2 Oyesters
 - 6 bowls of rice noodles
-- 16 fried chicken wings due to low tolerance to the fat
+- 16 fried chicken wings (in 3min'55s)
 - 1.2kg rice
 - To be continued......
 
